@@ -1,0 +1,6 @@
+nombre = input("Ingrese su nombre: ")
+print("Hola " + nombre + ", bienvenido al curso de Python")
+edad = int(input("Ingrese su edad: "))
+print("El año que viene tendras", edad + 1, "años")
+print(type(nombre))
+print(type(edad))
